@@ -1,8 +1,6 @@
-- 🤠 Howdy, I’m @Travh98
-- Interested in 🎮 game dev, 📱 mobile app dev, 🤖 robotics, 🍅 tomato sauce
-- Currently working in: C++ app dev, game dev in the Godot Engine using C#
-- Looking to collaborate on 🎮 game dev
-- 📫 Reach me on LinkedIn: www.linkedin.com/in/johnhunter98
+I'm a software engineer developing **Qt Applications**, and a **Godot** game developer.
+
+📫 [LinkedIn](www.linkedin.com/in/johnhunter98) 🎮 [My Games](https://travh98.itch.io/) 📺[My Tutorials & Showcases](https://www.youtube.com/@travh98_/videos)
 
 <!---
 Travh98/Travh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
