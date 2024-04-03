@@ -4,7 +4,7 @@ Passionate about open-source development and spreading technical knowledge to ev
 
 Building cool projects is my calling in life. Check out my public repositories!
 
-📫 [LinkedIn](www.linkedin.com/in/johnhunter98) &ensp;🎮 [My Games](https://travh98.itch.io/) &ensp;📺[My Tutorials & Showcases](https://www.youtube.com/@travh98_/videos)
+📫 [LinkedIn](https://www.linkedin.com/in/johnhunter98) &ensp;🎮 [My Games](https://travh98.itch.io/) &ensp;📺[My Tutorials & Showcases](https://www.youtube.com/@travh98_/videos)
 
 <!---
 Travh98/Travh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
