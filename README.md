@@ -1,8 +1,6 @@
-I'm a software engineer developing **Qt Applications** and a **Godot** game developer.
+Software engineer developing **Qt Applications**, learning **Web Development** and developing games using **Godot**.
 
-Passionate about open-source development and spreading technical knowledge to everyone.
-
-Building cool projects is my calling in life. Check out my public repositories!
+Bringing dreams to life, turning ideas into reality, and leaving a lasting impact on the world around us. Check out my public repositories!
 
 📫 [LinkedIn](https://www.linkedin.com/in/johnhunter98) &ensp;🎮 [My Games](https://travh98.itch.io/) &ensp;📺[My Tutorials & Showcases](https://www.youtube.com/@travh98_/videos)
 
